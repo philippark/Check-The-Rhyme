@@ -1,2 +1,2 @@
 time_log.txt
-./tests
+./src/tests/*
